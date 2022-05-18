@@ -20,7 +20,7 @@ class Student:
     def __init__(self):
         self.name = "Javier Aguero"
         self.role = "Full Stack Developer & Bachelor of Science in Business Administration (BSBA)"
-        self.language_spoken = ["it_IT", "en_US"]
+        self.language_spoken = ["es_CL", "en_US"]
 
     def say_hi(self):
         print("Thanks for dropping by, hope you find interesting my profile :)")
