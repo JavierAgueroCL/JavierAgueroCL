@@ -1,18 +1,44 @@
-### Hi there 👋
+<h1 align="center">
+  Hi, Nice to Meet You! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+</h1>
 
-<a href="https://app.daily.dev/JavierAgueroCL"><img src="https://api.daily.dev/devcards/9fc7e42efbe64bd8b4bffcfe1a903384.png?r=dy8" width="400" alt="Javier Aguero's Dev Card"/></a>
+<p align="center">   
+  <a href="mailto:javieraguerocl@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-0D1117?style=for-the-badge&logo=gmail&logoColor=0078D4"></a>
+  <a href="https://www.linkedin.com/in/javieraguerocl/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0078D4"></a>
+    <!--https://dev.to/envoy_/150-badges-for-github-pnk-->
+</p>
 
-<!--
-**JavierAgueroCL/JavierAgueroCL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🏋 About Me
 
-Here are some ideas to get you started:
+```python
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+class Student:
+
+    def __init__(self):
+        self.name = "Javier Aguero"
+        self.role = "Full Stack Developer & Bachelor of Science in Business Administration (BSBA)"
+        self.language_spoken = ["it_IT", "en_US"]
+
+    def say_hi(self):
+        print("Thanks for dropping by, hope you find interesting my profile :)")
+
+
+me = Student()
+me.say_hi()
+```
+
+## 📈 Github Stats
+
+<div align="center">
+    <img alt="Javier Aguero Github Stats" src="http://github-readme-streak-stats.herokuapp.com?user=javieraguerocl&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&dates=FFFFFF&sideLabels=0078D4&currStreakLabel=0078D4&stroke=0078D4&ring=0078D4" />
+  </div>
+
+  <hr/>
+
+  <div>
+    <img alt="Javier Aguero Contribution Graph" src="https://activity-graph.herokuapp.com/graph?username=javieraguerocl&bg_color=0D1117&color=0078D4&line=FFFFFF&point=0078D4&hide_border=true" />
+  <div>
+</div>
