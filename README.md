@@ -14,7 +14,6 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
 
-
 class Student:
 
     def __init__(self):
@@ -29,16 +28,3 @@ class Student:
 me = Student()
 me.say_hi()
 ```
-
-## 📈 Github Stats
-
-<div align="center">
-    <img alt="Javier Aguero Github Stats" src="http://github-readme-streak-stats.herokuapp.com?user=javieraguerocl&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&dates=FFFFFF&sideLabels=0078D4&currStreakLabel=0078D4&stroke=0078D4&ring=0078D4" />
-  </div>
-
-  <hr/>
-
-  <div>
-    <img alt="Javier Aguero Contribution Graph" src="https://activity-graph.herokuapp.com/graph?username=javieraguerocl&bg_color=0D1117&color=0078D4&line=FFFFFF&point=0078D4&hide_border=true" />
-  <div>
-</div>
